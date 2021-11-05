@@ -1,5 +1,6 @@
 pandas
 pytest
+-e .
 
 black
 isort
