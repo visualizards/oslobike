@@ -12,6 +12,7 @@ Oslo bike sharing data
 
    install
    api
+   auto_examples/index
 
 
 
