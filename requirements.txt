@@ -1,3 +1,10 @@
+pandas
+pytest
+
+black
+isort
+bump2version
+
 sphinx
 sphinx-rtd-theme
 sphinx-gallery
